@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GjSjiBVhIf9mb1XKaiRcst32gB3pRtHhpqGViGzuaiQrSqq342TE7aHji3zwkrk0tGJctKauOvGRSxDJN/irGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mimi\\Downloads\\SkiRental\\SkiRental.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mimi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
